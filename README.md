@@ -1,4 +1,4 @@
-![logo](https://im3.ezgif.com/tmp/ezgif-3-786693727b.gif)
+![logo]([https://im3.ezgif.com/tmp/ezgif-3-786693727b.gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif))
 <h1 align="center">Hi!! 👋, I'm Krityuk Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Programming"width="400"src="https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/200w.webp?cid=ecf05e47rowt8z33yo68yi5vytihcp1d65up48oh7ictquq2&ep=v1_gifs_search&rid=200w.webp&ct=g">
